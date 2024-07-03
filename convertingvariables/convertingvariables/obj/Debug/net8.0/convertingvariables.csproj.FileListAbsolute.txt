@@ -1,0 +1,28 @@
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\convertingvariables\convertingvariables\obj\Debug\net8.0\convertingvariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\convertingvariables\convertingvariables\obj\Debug\net8.0\convertingvariables.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\convertingvariables\convertingvariables\obj\Debug\net8.0\convertingvariables.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\convertingvariables\convertingvariables\obj\Debug\net8.0\convertingvariables.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\convertingvariables\convertingvariables\bin\Debug\net8.0\convertingvariables.exe
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\convertingvariables\convertingvariables\bin\Debug\net8.0\convertingvariables.deps.json
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\convertingvariables\convertingvariables\bin\Debug\net8.0\convertingvariables.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\convertingvariables\convertingvariables\bin\Debug\net8.0\convertingvariables.dll
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\convertingvariables\convertingvariables\bin\Debug\net8.0\convertingvariables.pdb
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\convertingvariables\convertingvariables\obj\Debug\net8.0\convertingvariables.dll
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\convertingvariables\convertingvariables\obj\Debug\net8.0\refint\convertingvariables.dll
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\convertingvariables\convertingvariables\obj\Debug\net8.0\convertingvariables.pdb
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\convertingvariables\convertingvariables\obj\Debug\net8.0\convertingvariables.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\convertingvariables\convertingvariables\obj\Debug\net8.0\ref\convertingvariables.dll
+C:\Users\HP\OneDrive\Desktop\C# Visual Studio 2022\convertingvariables\convertingvariables\bin\Debug\net8.0\convertingvariables.exe
+C:\Users\HP\OneDrive\Desktop\C# Visual Studio 2022\convertingvariables\convertingvariables\bin\Debug\net8.0\convertingvariables.deps.json
+C:\Users\HP\OneDrive\Desktop\C# Visual Studio 2022\convertingvariables\convertingvariables\bin\Debug\net8.0\convertingvariables.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\C# Visual Studio 2022\convertingvariables\convertingvariables\bin\Debug\net8.0\convertingvariables.dll
+C:\Users\HP\OneDrive\Desktop\C# Visual Studio 2022\convertingvariables\convertingvariables\bin\Debug\net8.0\convertingvariables.pdb
+C:\Users\HP\OneDrive\Desktop\C# Visual Studio 2022\convertingvariables\convertingvariables\obj\Debug\net8.0\convertingvariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\C# Visual Studio 2022\convertingvariables\convertingvariables\obj\Debug\net8.0\convertingvariables.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\C# Visual Studio 2022\convertingvariables\convertingvariables\obj\Debug\net8.0\convertingvariables.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\C# Visual Studio 2022\convertingvariables\convertingvariables\obj\Debug\net8.0\convertingvariables.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\C# Visual Studio 2022\convertingvariables\convertingvariables\obj\Debug\net8.0\convertingvariables.dll
+C:\Users\HP\OneDrive\Desktop\C# Visual Studio 2022\convertingvariables\convertingvariables\obj\Debug\net8.0\refint\convertingvariables.dll
+C:\Users\HP\OneDrive\Desktop\C# Visual Studio 2022\convertingvariables\convertingvariables\obj\Debug\net8.0\convertingvariables.pdb
+C:\Users\HP\OneDrive\Desktop\C# Visual Studio 2022\convertingvariables\convertingvariables\obj\Debug\net8.0\convertingvariables.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\C# Visual Studio 2022\convertingvariables\convertingvariables\obj\Debug\net8.0\ref\convertingvariables.dll
