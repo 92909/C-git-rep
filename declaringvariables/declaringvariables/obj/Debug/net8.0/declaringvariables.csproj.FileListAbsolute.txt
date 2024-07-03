@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Visual Studio 2022\declaringvariables\declaringvariables\bin\Debug\net8.0\declaringvariables.exe
+C:\Users\HP\Desktop\Visual Studio 2022\declaringvariables\declaringvariables\bin\Debug\net8.0\declaringvariables.deps.json
+C:\Users\HP\Desktop\Visual Studio 2022\declaringvariables\declaringvariables\bin\Debug\net8.0\declaringvariables.runtimeconfig.json
+C:\Users\HP\Desktop\Visual Studio 2022\declaringvariables\declaringvariables\bin\Debug\net8.0\declaringvariables.dll
+C:\Users\HP\Desktop\Visual Studio 2022\declaringvariables\declaringvariables\bin\Debug\net8.0\declaringvariables.pdb
+C:\Users\HP\Desktop\Visual Studio 2022\declaringvariables\declaringvariables\obj\Debug\net8.0\declaringvariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Visual Studio 2022\declaringvariables\declaringvariables\obj\Debug\net8.0\declaringvariables.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Visual Studio 2022\declaringvariables\declaringvariables\obj\Debug\net8.0\declaringvariables.AssemblyInfo.cs
+C:\Users\HP\Desktop\Visual Studio 2022\declaringvariables\declaringvariables\obj\Debug\net8.0\declaringvariables.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Visual Studio 2022\declaringvariables\declaringvariables\obj\Debug\net8.0\declaringvariables.dll
+C:\Users\HP\Desktop\Visual Studio 2022\declaringvariables\declaringvariables\obj\Debug\net8.0\refint\declaringvariables.dll
+C:\Users\HP\Desktop\Visual Studio 2022\declaringvariables\declaringvariables\obj\Debug\net8.0\declaringvariables.pdb
+C:\Users\HP\Desktop\Visual Studio 2022\declaringvariables\declaringvariables\obj\Debug\net8.0\declaringvariables.genruntimeconfig.cache
+C:\Users\HP\Desktop\Visual Studio 2022\declaringvariables\declaringvariables\obj\Debug\net8.0\ref\declaringvariables.dll
