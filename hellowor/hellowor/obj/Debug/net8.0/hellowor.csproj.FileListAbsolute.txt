@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Visual Studio 2022\hellowor\hellowor\bin\Debug\net8.0\hellowor.exe
+C:\Users\HP\Desktop\Visual Studio 2022\hellowor\hellowor\bin\Debug\net8.0\hellowor.deps.json
+C:\Users\HP\Desktop\Visual Studio 2022\hellowor\hellowor\bin\Debug\net8.0\hellowor.runtimeconfig.json
+C:\Users\HP\Desktop\Visual Studio 2022\hellowor\hellowor\bin\Debug\net8.0\hellowor.dll
+C:\Users\HP\Desktop\Visual Studio 2022\hellowor\hellowor\bin\Debug\net8.0\hellowor.pdb
+C:\Users\HP\Desktop\Visual Studio 2022\hellowor\hellowor\obj\Debug\net8.0\hellowor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Visual Studio 2022\hellowor\hellowor\obj\Debug\net8.0\hellowor.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Visual Studio 2022\hellowor\hellowor\obj\Debug\net8.0\hellowor.AssemblyInfo.cs
+C:\Users\HP\Desktop\Visual Studio 2022\hellowor\hellowor\obj\Debug\net8.0\hellowor.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Visual Studio 2022\hellowor\hellowor\obj\Debug\net8.0\hellowor.dll
+C:\Users\HP\Desktop\Visual Studio 2022\hellowor\hellowor\obj\Debug\net8.0\refint\hellowor.dll
+C:\Users\HP\Desktop\Visual Studio 2022\hellowor\hellowor\obj\Debug\net8.0\hellowor.pdb
+C:\Users\HP\Desktop\Visual Studio 2022\hellowor\hellowor\obj\Debug\net8.0\hellowor.genruntimeconfig.cache
+C:\Users\HP\Desktop\Visual Studio 2022\hellowor\hellowor\obj\Debug\net8.0\ref\hellowor.dll
