@@ -1,0 +1,5 @@
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\lcmofnumberys\lcmofnumberys\obj\Debug\net6.0\lcmofnumberys.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\lcmofnumberys\lcmofnumberys\obj\Debug\net6.0\lcmofnumberys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\lcmofnumberys\lcmofnumberys\obj\Debug\net6.0\lcmofnumberys.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\lcmofnumberys\lcmofnumberys\obj\Debug\net6.0\lcmofnumberys.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\lcmofnumberys\lcmofnumberys\obj\Debug\net6.0\lcmofnumberys.csproj.CoreCompileInputs.cache
