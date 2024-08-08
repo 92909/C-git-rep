@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\MyFirstAppProgram\obj\Debug\net8.0\MyFirstAppProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\MyFirstAppProgram\obj\Debug\net8.0\MyFirstAppProgram.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\MyFirstAppProgram\obj\Debug\net8.0\MyFirstAppProgram.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\MyFirstAppProgram\obj\Debug\net8.0\MyFirstAppProgram.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\MyFirstAppProgram\bin\Debug\net8.0\MyFirstAppProgram.exe
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\MyFirstAppProgram\bin\Debug\net8.0\MyFirstAppProgram.deps.json
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\MyFirstAppProgram\bin\Debug\net8.0\MyFirstAppProgram.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\MyFirstAppProgram\bin\Debug\net8.0\MyFirstAppProgram.dll
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\MyFirstAppProgram\bin\Debug\net8.0\MyFirstAppProgram.pdb
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\MyFirstAppProgram\obj\Debug\net8.0\MyFirstAppProgram.dll
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\MyFirstAppProgram\obj\Debug\net8.0\refint\MyFirstAppProgram.dll
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\MyFirstAppProgram\obj\Debug\net8.0\MyFirstAppProgram.pdb
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\MyFirstAppProgram\obj\Debug\net8.0\MyFirstAppProgram.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\Visual Studio 2022\MyFirstAppProgram\obj\Debug\net8.0\ref\MyFirstAppProgram.dll
